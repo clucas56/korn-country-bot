@@ -1,0 +1,5 @@
+.env
+korncountrybottoken.txt
+__pycache__/
+*.pyc
+venv/
